@@ -34,5 +34,6 @@ Please upload your **slides or a introduction** (Chinese or English) of your pre
 | 38 | 2022.7.9 |芦笑瑜<br> 马梓刚 |  |
 | 40 | 2022.7.16 |张士超<br> 刘厚志 |  |
 | 41 | 2022.7.23 |杨亚辉<br> 李泽村 | Efficient_Cyber_Attack_Detection_in_Industrial_Control_Systems_Using_Lightweight_Neural_Networks_and_PCA 李泽村 |
+| 42 | 2022.8.20 |李泽村<br> 张士超 | Scission: Signal Characteristic-Based Sender Identification and Intrusion Detection in Automotive Networks 李泽村 |
 
 
